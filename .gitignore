@@ -1,0 +1,11 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+/tests-2/Order-orig.spec.js
+/tests-2/LoginPageObject.spec.js
+/tests-2/ApiWeb.spec.js
