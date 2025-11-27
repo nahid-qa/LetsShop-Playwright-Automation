@@ -179,10 +179,6 @@ View HTML report
 
 npx playwright show-report
 
-View trace
-
-npx playwright show-trace trace.zip
-
 📁 Report Files in GitHub
 
 The full Playwright report folder (playwright-report/) is auto-generated and intentionally excluded from GitHub using .gitignore to keep the repository clean.
