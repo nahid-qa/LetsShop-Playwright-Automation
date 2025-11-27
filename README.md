@@ -175,10 +175,6 @@ This will launch an interactive dashboard showing:
 
 Test results (passed / failed / skipped)
 
-<img width="1671" height="1075" alt="image" src="https://github.com/user-attachments/assets/5c098931-ea45-4bfc-aac2-c7cfdb195131" />
-
-<img width="1751" height="1070" alt="image" src="https://github.com/user-attachments/assets/504025ac-ba46-45a7-a7d1-636d269b4acb" />
-
 View HTML report
 
 npx playwright show-report
